@@ -1,0 +1,18 @@
+#gameArea {
+    margin-bottom: 20px;
+}
+
+form input {
+    max-width: 40px;
+}
+
+.attempts-wrapper {
+    position: absolute;
+    bottom: 10px;
+    right: 40px;
+}
+
+.attempts-wrapper dt, .attempts-wrapper dd {
+    display: inline;
+    margin: 0;
+}
